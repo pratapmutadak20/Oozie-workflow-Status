@@ -1,4 +1,3 @@
-# Oozie-workflow-Status
 ###Hortonworks Data Platform 3.1.1 Nagios Plugin - Oozie Workflow Status
 
 This plugin will identify and alert the status of Oozie workflows.
@@ -6,7 +5,11 @@ This is assumed that nagios server and nrpe plugins have been installed, up and 
 
 https://clairvoyant.atlassian.net/wiki/spaces/INSIGHT/pages/920059930/Nagios+Setup+SugarBox
 
-###Info
+
+![Ambari Oozie Nagios Screenshot](/images/ambari-oozie.png "Ambari Oozie Nagios Screenshot")
+
+
+###News
 Updated for HDP 3.1.1 Nagios integration.
 This plugin now only reports on a fixed number of jobs in the past that meet time range criteria specified by the admin.
 
