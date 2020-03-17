@@ -3,10 +3,9 @@
 This plugin will identify and alert the status of Oozie workflows.
 This is assumed that nagios server and nrpe plugins have been installed, up and running. If not then follow the steps mentioed in link provided as below.
 
-https://clairvoyant.atlassian.net/wiki/spaces/INSIGHT/pages/920059930/Nagios+Setup+SugarBox
+https://github.com/pratapmutadak20/Oozie-workflow-Status/blob/master/Nagios%20installation%20and%20configuration
 
 
-![Ambari Oozie Nagios Screenshot](/images/ambari-oozie.png "Ambari Oozie Nagios Screenshot")
 
 
 ###News
