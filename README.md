@@ -3,9 +3,9 @@
 This plugin will identify and alert the status of Oozie workflows.
 This is assumed that nagios server and nrpe plugins have been installed, up and running. If not then follow the steps mentioed in link provided as below.
 
-https://github.com/pratapmutadak20/Oozie-workflow-Status/blob/master/Nagios%20installation%20and%20configuration
+https://github.com/pratapmutadak20/Oozie-workflow-Status/blob/master/Nagios%20installation%20and%20configuration 
 
-
+Oozie nagios screenshot.PNG
 
 
 ###News
