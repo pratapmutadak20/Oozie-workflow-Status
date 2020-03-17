@@ -218,7 +218,7 @@ if __name__ == "__main__":
         host = sys.argv[1]
         port = sys.argv[2]
         JAVA_HOME = sys.argv[3]
-	    kinit_truth = sys.argv[4]
+	kinit_truth = sys.argv[4]
         time_range = int(sys.argv[5])
         history_length = sys.argv[6]
     except Exception as e:
